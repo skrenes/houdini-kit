@@ -22,4 +22,4 @@ TypeError: Cannot read properties of undefined (reading 'type')
     at file:///home/node/app/node_modules/houdini/build/cmd.js:401:42
 ```
 
-It seems every public version I used had this issue. I'm not entirely sure why but another issue altogether.
+It seems every public endpoint I used had this issue. I'm not entirely sure why, but that's another issue altogether.
