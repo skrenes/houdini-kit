@@ -1,5 +1,4 @@
 import { Environment } from '$houdini';
-import type { SubscriptionHandler } from '$houdini';
 import { createClient } from 'graphql-ws';
 import { browser } from '$app/env';
 
