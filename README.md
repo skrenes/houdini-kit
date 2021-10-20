@@ -1,6 +1,6 @@
 # SvelteKit + Houdini
 
-An example of using the latest version of SvelteKit and Houdini. This illustrates a simple `query` and `subscription`, the latter of which doesn't seem to work. Remember to change `apiUrl` inside of `houdini.config.js` and `API_URL` in `environments.ts` to a valid endpoint and then run:
+An example of using the latest version of SvelteKit and Houdini. This illustrates a simple `query` and `subscription`. Remember to change `apiUrl` inside of `houdini.config.js` and `API_URL` in `environments.ts` to a valid endpoint and then run:
 
 ```sh
 npx houdini generate --pull-schema
