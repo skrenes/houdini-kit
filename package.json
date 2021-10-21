@@ -73,6 +73,6 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "graphql-ws": "^5.5.1"
+    "graphql-ws": "^5.5.3"
   }
 }
